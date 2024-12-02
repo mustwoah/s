@@ -16,3 +16,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0411
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#%F0%9F%87%B8%F0%9F%87%AASE-94.228.165.178-0441
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#%F0%9F%87%B3%F0%9F%87%B1NL-176.124.199.255-0443
+vless://bd2914ed-69b1-4533-a7f0-929527541c35@104.24.196.20:80/?type=ws&encryption=none&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
+vless://bd2914ed-69b1-4533-a7f0-929527541c35@104.24.196.20:80/?type=ws&encryption=none&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
